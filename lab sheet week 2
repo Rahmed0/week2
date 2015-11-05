@@ -35,3 +35,9 @@ a = 3(x + y)
 SyntaxError: multiple statements found while compiling a single statement
 
 
+7) radius = input(float("Enter the radius:"))
+Traceback (most recent call last):
+  File "<pyshell#13>", line 1, in <module>
+    radius = input(float("Enter the radius:"))
+ValueError: could not convert string to float: 'Enter the radius:'
+
