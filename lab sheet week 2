@@ -28,4 +28,10 @@ area = pi * radius ** 2
 
 SyntaxError: multiple statements found while compiling a single statement
 
+6)  x = 4
+y = 5
+a = 3(x + y)
+
+SyntaxError: multiple statements found while compiling a single statement
+
 
