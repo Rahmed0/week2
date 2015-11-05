@@ -15,32 +15,47 @@ print(2/3)
 print(2//3)
 0
 
-3) area
+3) 
+
+area
 
 
-4) 1Apple; account number; account.number; 5return; great.big.variable; 2x
+4) 
+
+1Apple; account number; account.number; 5return; great.big.variable; 2x
 
 
-5) radius = input("Radius:")
+5) 
+
+radius = input("Radius:")
 x = 3.14
 pi = x
 area = pi * radius ** 2
 
 SyntaxError: multiple statements found while compiling a single statement
 
-6)  x = 4
+6) 
+
+x = 4
 y = 5
 a = 3(x + y)
 
 SyntaxError: multiple statements found while compiling a single statement
 
 
-7) radius = input(float("Enter the radius:"))
+7) 
+
+radius = input(float("Enter the radius:"))
 Traceback (most recent call last):
   File "<pyshell#13>", line 1, in <module>
     radius = input(float("Enter the radius:"))
 ValueError: could not convert string to float: 'Enter the radius:'
 
 
-8) print(3 + 4 + 5 / 3)
+8) 
+
+print(3 + 4 + 5 / 3)
 8.666666666666666
+
+
+9)
