@@ -41,3 +41,6 @@ Traceback (most recent call last):
     radius = input(float("Enter the radius:"))
 ValueError: could not convert string to float: 'Enter the radius:'
 
+
+8) print(3 + 4 + 5 / 3)
+8.666666666666666
