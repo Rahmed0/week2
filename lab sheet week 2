@@ -1,0 +1,31 @@
+1)
+
+num = 4
+num*=2
+num1=num+2
+num1+=3 
+print(num1)
+13
+
+
+2)
+
+print(2/3)
+0.6666666666666666
+print(2//3)
+0
+
+3) area
+
+
+4) 1Apple; account number; account.number; 5return; great.big.variable; 2x
+
+
+5) radius = input("Radius:")
+x = 3.14
+pi = x
+area = pi * radius ** 2
+
+SyntaxError: multiple statements found while compiling a single statement
+
+
